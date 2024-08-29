@@ -1,0 +1,25 @@
+.container{
+    border: 5px solid black;
+    margin: 10px;
+    width: 90%;
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   justify-content: center;
+}
+#color-box{
+    border: 10px solid blue;
+    margin: 30px;
+    width: 600px;
+    height: 500px;
+    background-color: aqua;
+}
+#change-color-btn{
+    border: 5px solid rgb(6, 247, 187);
+    border-radius: 20px;
+    margin: 0px;
+    width: 600px;
+    height: 100px;
+    background-color: rgb(229, 24, 13);
+}
